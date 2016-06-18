@@ -36,7 +36,7 @@
  	<url>https://github.com/mchekini/app</url>
 	<connection>scm:git:https://github.com/mchekini/app.git</connection>
 	<developerConnection>scm:git:https://github.com/mchekini/app.git</developerConnection>
-    <tag>app-1.1</tag>
+    <tag>app-1.7</tag>
   </scm>
   
   
