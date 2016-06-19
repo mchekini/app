@@ -11,6 +11,7 @@ public class App
     public static void main( String[] args )
     {
         System.out.println( "Hello jenkins!" );
-        System.out.println("ameeeeeeeeeeek");
+        System.out.println(" configuration maven with jenkins succesful");
+        System.out.println(" configuration finished");
     }
 }
